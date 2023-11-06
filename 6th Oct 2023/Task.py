@@ -10,3 +10,5 @@ print(f'{num1} x 7 = {num1*7}')
 print(f'{num1} x 8 = {num1*8}')
 print(f'{num1} x 9 = {num1*9}')
 print(f'{num1} x 10 = {num1*10}')
+
+
